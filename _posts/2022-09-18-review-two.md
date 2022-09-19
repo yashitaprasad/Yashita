@@ -1,4 +1,4 @@
-![livingstone](https://yashitaprasad.github.io/Yashita/images/Srcreenshot ().jpg)
+
 ###Review 2 Blog 
 
 **Project title:** Six Degrees of Francis Bacon: 
@@ -18,13 +18,13 @@ At first look, the project can feel a bit overwhelming and difficult to understa
 
 [picture of hooke mode]
 
-![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (215).ppg)
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (215).png)
 
 
 Hooke mode shows all the important people and just has lines connected which seemed a bit easier to understand. Concentric mode, I will admit was difficult to understand. There’s one network and then there’s names that seem to be connected. However, it’s only one network you can’t identify how it relates to the rest of the map or how it’s significant. 
 [Picture of Concentric Mode]
 
-![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (216).ppg)
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (216).png)
 
 
 Another aspect I found about this website is that it's difficult to backtrack. There is a visualize button, which is great, but it doesn’t get back to the original map that you were looking at. Instead, it just re structures the map to center on the person you were looking at. Say if you are looking at the Francis Bacon Network, and then you click on Thomas Hobbes. If you want to go back to the Francis Bacon Network, you must find the Francis Bacon Network within the restructured Thomas Hobbes Network to get back to the original Francis Bacon Network. This is a minor flaw and doesn’t take away from the project itself. However even people who are interested in modern English scholars could appreciate an ease of use. 
@@ -32,10 +32,10 @@ Another aspect I found about this website is that it's difficult to backtrack. T
 
 [picture of James Montagu Network]
 
-![livingstone](https://yashitaprasad.github.io/Yashita/images/Srcreenshot (218).png)
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (218).png)
 [Picture of refreshing page]
 
-![livingstone](https://yashitaprasad.github.io/Yashita/images/Srcreenshot (219).png)
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (219).png)
 
 [finally getting to the back to the James Montagu network] 
 Since I am not an expert, or even interested in looking at 19th century scholars, the very first thing I did was go to the about page to figure out what the network was about. The about me was helpful and I think they did a good job of showing the historical significance of the modern scholars. They showed the significance by illustrating all the different connections the scholars had to each other, and how those connections formed bigger networks. All of which were formed (I assume) to share knowledge and collaborate with one another. 
@@ -51,7 +51,7 @@ It was also great that there was a hyperlink to bios of the people you pressed o
 
 [picture of the hyperlink to Oxford and JSTOR]
 
-![livingstone](https://yashitaprasad.github.io/Yashita/images/Srcreenshot (221).jpg)
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (221).jpg)
 
 
 **Technology**
