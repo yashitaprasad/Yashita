@@ -1,9 +1,8 @@
-
-###Review 2 Blog 
+### Review 2 Blog 
 
 **Project title:** Six Degrees of Francis Bacon: 
 
-**Project URL: ** [(http://sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network)]
+**Project URL:** [(http://sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network)]
 
 **Project Director(s):** Christopher Warren, Daniel Shore 
 
