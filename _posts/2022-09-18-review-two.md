@@ -1,7 +1,9 @@
-Review 2 Blog 
-Project title: Six Degrees of Francis Bacon: 
-Project URL: http://sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network
-Project Director(s): Christopher Warren, Daniel Shore 
+###Review 2 Blog 
+**Project title:** Six Degrees of Francis Bacon: 
+
+**Project URL:** http://sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network
+
+**Project Director(s):** Christopher Warren, Daniel Shore 
 
 The Six Degrees of Francis Bacon (SDFB) is an online recreation of the social network of early modern scholars and students. At first look, the project can feel a bit overwhelming and difficult to understand. I certainly had no idea what I was looking at. It seemed like a spider web with a bunch of different names on it. Some of the names on the map I could recognize were significant, others I didn’t recognize, or I didn’t know why they were placed on the map. For example, I didn’t understand why King Henry Queen Elizabeth were on there, they weren’t scholars from what I remembered (I’m not knowledgeable on history, so I don’t know if I remembered that correctly). There two modes that you can see the visualization as. There’s Hooke mode and then there’s concentric mode. 
 [picture of Hooke mode]
