@@ -32,11 +32,11 @@ Another aspect I found about this website is that it's difficult to backtrack. T
 
 [picture of James Montagu Network]
 
-![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (219).png)
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (217).png)
 
 [Picture of refreshing page]
 
-![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (221).png)
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (219).png)
 
 Since I am not an expert, or even interested in looking at 19th century scholars, the very first thing I did was go to the about page to figure out what the network was about. The about me was helpful and I think they did a good job of showing the historical significance of the modern scholars. They showed the significance by illustrating all the different connections the scholars had to each other, and how those connections formed bigger networks. All of which were formed (I assume) to share knowledge and collaborate with one another. 
 
