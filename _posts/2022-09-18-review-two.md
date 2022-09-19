@@ -32,11 +32,11 @@ Another aspect I found about this website is that it's difficult to backtrack. T
 
 [picture of James Montagu Network]
 
-![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (218).png)
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (219).png)
 
 [Picture of refreshing page]
 
-![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (219).png)
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (221).png)
 
 Since I am not an expert, or even interested in looking at 19th century scholars, the very first thing I did was go to the about page to figure out what the network was about. The about me was helpful and I think they did a good job of showing the historical significance of the modern scholars. They showed the significance by illustrating all the different connections the scholars had to each other, and how those connections formed bigger networks. All of which were formed (I assume) to share knowledge and collaborate with one another. 
 
@@ -45,6 +45,8 @@ The goal of this project was to show how all the different scholars are connecte
 
 
 [picture of the data visualization and highlighting the vast number of connections that queen Elizabeth and King James had]
+
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (227).jpg)
 
 It was also great that there was a hyperlink to bios of the people you pressed on. For example, if you press on John Chamberlin on the map, there’s an oxford link and a JSTOR link. The oxford link is a biography and the JSTOR link leads to scholarly articles about John Chamberlin. This was an excellent idea because the map had too many links on screen for there to be a bio as soon as you clicked on it. Which is normally what I’m used to seeing when I look at data visualizations and maps. 
 
