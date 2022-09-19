@@ -1,4 +1,5 @@
 ###Review 2 Blog 
+
 **Project title:** Six Degrees of Francis Bacon: 
 
 **Project URL:** http://sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network
