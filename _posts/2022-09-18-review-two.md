@@ -21,6 +21,7 @@ At first look, the project can feel a bit overwhelming and difficult to understa
 
 
 Hooke mode shows all the important people and just has lines connected which seemed a bit easier to understand. Concentric mode, I will admit was difficult to understand. There’s one network and then there’s names that seem to be connected. However, it’s only one network you can’t identify how it relates to the rest of the map or how it’s significant. 
+
 [Picture of Concentric Mode]
 
 ![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (216).png)
@@ -32,11 +33,11 @@ Another aspect I found about this website is that it's difficult to backtrack. T
 [picture of James Montagu Network]
 
 ![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (218).png)
+
 [Picture of refreshing page]
 
 ![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (219).png)
 
-[finally getting to the back to the James Montagu network] 
 Since I am not an expert, or even interested in looking at 19th century scholars, the very first thing I did was go to the about page to figure out what the network was about. The about me was helpful and I think they did a good job of showing the historical significance of the modern scholars. They showed the significance by illustrating all the different connections the scholars had to each other, and how those connections formed bigger networks. All of which were formed (I assume) to share knowledge and collaborate with one another. 
 
 
