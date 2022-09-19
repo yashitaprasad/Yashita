@@ -50,12 +50,14 @@ It was also great that there was a hyperlink to bios of the people you pressed o
 
 [picture of the hyperlink to Oxford and JSTOR]
 
-![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (221).jpg)
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (223).jpg)
 
 
 **Technology**
+
  The entire codebase for the site, which uses Angular, Ruby on Rails, and D3, is available in our Git hub repo. The R code is used for network inference of the Oxford Dictionary of National Biography. This website is hosted by Carnegie Mellon University Libraries, and data is available for download both on this site and as part of the Folger Shakespeare Library's digital collections. The website worked great, without few glitches. The project creators did a great job of creating a seamless experience in which to display the network. 
  
  
 **Conclusion**
+
 Overall, this website does a thorough and detailed job of showing all the different connections between scholars and educators in the early modern era. The creators did an excellent job of creating an interactive and seamless experience, while still displaying all the information about the early modern scholars. 
