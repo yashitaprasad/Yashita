@@ -44,6 +44,7 @@ The posts are created by various students and each point in the timeline has its
 The timeline was created by TimelineJS. The technology is simple and sophisticated. The project is built using the Knight Lab’s TimelineJS project, an easy-to-use platform driven by Google Sheets and hosted online by the Knight Lab. The tool creates a timeline with two sections: a narrative section covers the upper two-thirds of the screen, while the lower third gives an overview of the entire timeline that can be panned, zoomed in and out, or reset to the starting panel. Users can then swipe through the timeline to advance from event to event or select an event in the lower third timeline to jump to a particular point. 
 
 **DH grant**
+
 I think this is a great reference to where I want to begin with my timeline and website. I don’t know if I’ll use the same software that Timeline for Empire uses, but I think the layout of the post for each point on the timeline and the actual timeline being on the bottom is something I want to do for my own grant. I’d probably want the timeline to be more interactive than, what this timeline was. While it doesn’t cover a similar topic as my timeline, since my project is on the astronaut Yuri Gagarin. 
 
 **Conclusion**
