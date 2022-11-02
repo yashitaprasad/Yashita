@@ -22,8 +22,7 @@ This project was directed by Professor Katrina Philips who primarily teaches Nat
 
 When you first get to the website, there is a brief synopsis about what the timeline is about. This is great, since there is no about this website tab, the URL just sends you straight to the timeline. The timeline covers an extensive amount of information. Each post on the timeline is structured as some sort of narrative to set up an event or period into historical context. Then each post explores the causes behind U.S. expansion and the responses to expansion by those subjected to it. 
 
-
-[picture of timeline synopsis]
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (240).png)
 
 
 I did find the project a little difficult to get into, since there is no about the website, and it just goes straight into the timeline, it was difficult to find the information about the project directors. I only knew who the project was written by because I found another review of the project done by Jason A. Hepler on reviews in DH. I think an about project, somewhere on the timeline or off in the corner could easily fix this. 
@@ -35,7 +34,7 @@ The timeline is extensive and covers over 400 years of history. The timeline cov
 At the bottom there a legend of sorts if the whole timeline where you can scroll through of the of the points in the timeline. There are buttons where you can zoom in and out on specific time points on the timeline. This is great because it can be overwhelming to see the entire project right from the get go. 
 
 
-[picture of legend] 
+![livingstone](https://yashitaprasad.github.io/Yashita/images/Screenshot (241).png)
 
 
 I enjoyed the fact there was forward and backwards button on the time, that way you can always go back to what you where previously looking at. This way you don’t get lost, and have to refresh the entire page to get back to where you were. This makes for an easier viewing experience. 
