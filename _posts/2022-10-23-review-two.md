@@ -12,7 +12,11 @@ https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1FoRrZY6
 
 **Background**
 
-Timeline for Empire (TFE) by Katrina Phillips is an examination of the creation of the U.S. empire – and historical and contemporary resistance to the impositions of empire. From encounters with Native americans in various United states territories. The timeline covers a variety of topics. Everything from race, imperialism, citizenship and belonging, and inclusion and exclusion of different people. The timeline covers many centuries and spans around the world, demonstrating the historical and even the current reach of American empire. As the timeline goes on it becomes clear, how the U.S imperialism grows throughout each century. 
+Timeline for Empire (TFE) by Katrina Phillips is an examination of the creation of the U.S. empire – and historical and contemporary resistance to the impositions of empire. From encounters with Native americans in various United states territories. The timeline covers a variety of topics. Everything from race, imperialism, citizenship and belonging, and inclusion and exclusion of various people. 
+
+
+This project was directed by Professor Katrina Philips who primarily teaches Native history, the American West, the U.S. Empire, public history, as well as representation and performance. She created this project in collaboration with her students. Due to covid, and a switch from the semester to quarter model, she decided to give her students this project to cover more material as well as have a project that could be done remotely, should the need occur. Each student was responsible for 10-15 entries on the timeline. The only requirement was that the entries had to relate to the creation, growth, or maintenance of the U.S. empire. 
+
 
 **Timeline**
 
@@ -41,7 +45,7 @@ The posts are created by various students and each point in the timeline has its
 
 **Technology**
 
-The timeline was created by TimelineJS. The technology is simple and sophisticated. The project is built using the Knight Lab’s TimelineJS project, an easy-to-use platform driven by Google Sheets and hosted online by the Knight Lab. The tool creates a timeline with two sections: a narrative section covers the upper two-thirds of the screen, while the lower third gives an overview of the entire timeline that can be panned, zoomed in and out, or reset to the starting panel. Users can then swipe through the timeline to advance from event to event or select an event in the lower third timeline to jump to a particular point. 
+I think this is a great reference to where I want to begin with my timeline and website. I don’t know if I’ll use the same software that Timeline for Empire uses, but I think the layout of the post for each point on the timeline and the actual timeline being on the bottom is something I want to do for my own grant. I’d probably want the timeline to be more interactive than, what this timeline was. While it doesn’t cover a similar topic as my timeline since my project is on the astronaut Yuri Gagarin. 
 
 **DH grant**
 
