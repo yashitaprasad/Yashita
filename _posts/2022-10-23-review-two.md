@@ -8,7 +8,7 @@ Katrina Phillips
 
 **Project URL:**
 
-https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1FoRrZY6Kn6SzKMtNqchmuRm7pFOqaRrrmZGY1hd8iF8&font=Default&lang=en&initial_zoom=2&height=1000
+[(https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1FoRrZY6Kn6SzKMtNqchmuRm7pFOqaRrrmZGY1hd8iF8&font=Default&lang=en&initial_zoom=2&height=1000)]
 
 **Background**
 
