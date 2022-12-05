@@ -3,9 +3,11 @@
 
 
 **Introduction** 
+
 Now that I’ve taken this course, Digital Humanities to me means the study of how humanities intersect with technology. My definition of DH hasn’t really changed because when I first took the course, I didn’t have any prior knowledge of DH to base my definition on. So, I have a better understanding of the field now that I’ve taken this class. 
 
 **Readings**
+
 The readings were helpful in trying to understand how DH could be applied outside of a classroom. They also helped in trying to define DH, because I felt like DH could be a lot of different things.  A reading that I found interesting were Nielson Norman Group, “Text Scanning Patterns: Eye tracking Evidence”. This paper tracked eye movement when people were skimming text, to see what part of the passage people gravitated to. They found that people often read headers, and the first sentence of each paragraph which made sense as I had done that as well. 
 
 
