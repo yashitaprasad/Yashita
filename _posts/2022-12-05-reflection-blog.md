@@ -27,4 +27,5 @@ For Review Two, we had to find a DH project that also related to our own project
 Lastly the Grant Project was our semester long project, that we had many different parts for. I liked the fact that we got to do multiple parts for it, and that we could choose it ourselves. Even though it required a lot of research, it was on a topic I liked so working on it was enjoyable. 
 
 **Conclusion**
+
 I definitely grown as a writer in this class. This class was different than other English classes I’ve taken because like most of the writing I did previously was more academic and longer. In this class we had to be shorter and more concise while still getting the point across.  Overall, this class was a nice change in pace, and I really enjoyed taking this class.
