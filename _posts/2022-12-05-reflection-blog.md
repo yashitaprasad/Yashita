@@ -1,6 +1,3 @@
-### Review one Blog
- 
-#### By: Yashita Prasad
 
 
 **Introduction** 
