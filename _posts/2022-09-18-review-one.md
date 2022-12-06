@@ -1,4 +1,4 @@
-### Review 2 Blog 
+### Review one Blog 
 
 **Project title:** Six Degrees of Francis Bacon: 
 
